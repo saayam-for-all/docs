@@ -1,2 +1,3 @@
-# wiki
-Wiki
+# Documentation
+
+Repository for documentation
